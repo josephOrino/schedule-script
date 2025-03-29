@@ -17,13 +17,13 @@ DDD | MMM DD, YYYY | UNDER | GAME 1 TEAM A | GAME 1 TEAM B | UNDER | GAME 2 TEAM
 - `UNDER` → Age category (e.g., `13U`, `15U`, `17U`, `19U`, `22U`, etc.)
 - `vs` should be replaced with vertical bars (`|`).
 
-💡 **Tip:** You can use ChatGPT to format any schedule into this format.
+💡 **Tip:** You can use ChatGPT to format any schedule into this format. You can also follow this link for the prompt: 
+``` plaintext
+https://chatgpt.com/c/67e7795c-de58-8012-96de-24ced1cd37b1
+```
 
 2. **Open the Correct Photoshop File**  
-- Depending on the total number of games, open the corresponding `.tiff` file:  
-  - **8 games** → `schedule season 6 - 8G.tiff`  
-  - **7 games** → `schedule season 6 - 7G.tiff`  
-  - And so on...
+- Locate the `Schedule Season 6.tiff` file and open it.
 
 3. **Run the Script in Photoshop**  
 - Locate the `.jsx` script in the same directory as the `.tiff` file.  
