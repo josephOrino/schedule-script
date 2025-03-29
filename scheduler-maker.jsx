@@ -29,7 +29,6 @@ if (app.documents.length > 0) {
                             groupName = "4 Games";
                             break;
     }
-    alert(groupName);
     var group = doc.layerSets.getByName(groupName);
     group.visible = !group.visible; // Toggle visibility
 
